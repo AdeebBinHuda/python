@@ -1,7 +1,7 @@
 import heapq
 def a_star(graph, start, goal, h):
     open_set = []
-    heapq.heappush(open_set,(0 + h[start],0,start,[start])) # (f_score, g_score, node, path)
+    heapq.heappush(open_set,(0 + h[start],0,start,[start])) 
     visited = set()
 
     while open_set:
