@@ -45,6 +45,7 @@ Algorithm-Lab/
     ├── heuristics.py
     └── helper_functions.py
 
+
 🤖 AI Search Algorithms
 
 This section focuses on classical Artificial Intelligence algorithms that deal with problem-solving, game theory, and state-space search.
@@ -109,7 +110,7 @@ Dijkstra.py
 
 Clone the repository:
 
-git clone https://github.com/AdeebBinHuda/Algorithm.git
+git clone https://github.com/AdeebBinHuda/PYTHON/Algorithm.git
 cd Algorithm
 
 
