@@ -115,7 +115,7 @@ def minimax(state, player, game):
 
 
 def play_game():
-    """Main game loop"""
+    """Main game loops....."""
     game = TicTacToe()
     
     print("=" * 40)
